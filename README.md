@@ -1,5 +1,5 @@
-# FRAM_System
-## Face Recognition Attendance Management System
+# Face Recognition 
+## Attendance Management System Using Face Recognition
 
 ### Introduction
 This project aims about optimising the traditional Attendance Marking System by Introducing the Face Detection and Recognition.
